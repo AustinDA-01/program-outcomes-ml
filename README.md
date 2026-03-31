@@ -1,4 +1,4 @@
-# program-outcomes-ml
+
 # Program Outcomes Prediction Using Machine Learning
 
 This project demonstrates how machine learning can be used to predict program completion and identify key factors influencing treatment outcomes in a behavioral health setting.
